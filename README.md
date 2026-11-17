@@ -40,6 +40,7 @@
 - [self-review.md](self-review.md) — самопроверка.
 - [adjacent-role-review.md](adjacent-role-review.md) — оценка результата с позиции аналитика данных.
 - [time-log.md](time-log.md) — время по этапам.
+- [peer-check.md](peer-check.md) — результаты повторной проверки четырёх тест-кейсов однокурсником.
 
 ## Как читать результаты
 
